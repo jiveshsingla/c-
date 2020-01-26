@@ -42,7 +42,5 @@ for(int loop=0;loop<num;loop++)
 	k++;
 	n--;
 }
-
-return 0;
 }
 
